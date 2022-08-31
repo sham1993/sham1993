@@ -8,7 +8,7 @@
 - 💬 Ask me about *Java,Spring,SpringBoot,Hybernet,Sql,DSA*
 - 📫 How to reach me *mdsham1993@gmail.com*
 - 📄 Know about my experiences 
-<p>Check out <a href="https://drive.google.com/file/d/1Cw8vXrSh9a5WJFtRMLcGJCpeZD1kS59n/view?usp=sharing" target="_blank" rel="noopener noreferrer">Checout My Resume Here</a>.</p>
+<p>Check out <a href="https://drive.google.com/file/d/1Cw8vXrSh9a5WJFtRMLcGJCpeZD1kS59n/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume Here</a>.</p>
 
 - ⚡ Fun fact *I am Diligent*
 <h3 align="left">Connect with me:</h3>
